@@ -6,7 +6,7 @@ Apenas um integrante submete a atividade.
 Enviar apenas o link do repositório.
 
 
-Additional Information
+
 https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
 
 This archive contains 2075259 measurements gathered in a house located in Sceaux (7km of Paris, France) between December 2006 and November 2010 (47 months).
