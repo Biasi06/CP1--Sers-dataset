@@ -1,5 +1,8 @@
 # CP1--Sers-dataset
-
+#RM: 566386 NOME: Rodrigo Campos Cordeiro
+#RM: 563247 NOME: Gabriel de Biasi Couto
+#RM: 565031 NOME: João Pedro da Silva Costa
+#RM: 564572 NOME: Pedro Noronha dos Santos
 INSTRUÇÕES DA ENTREGA:
 A atividade pode ser desenvolvida em grupo.
 Apenas um integrante submete a atividade.
